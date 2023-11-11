@@ -1,5 +1,6 @@
 # Crypto X
 ---
+![c](https://github.com/cryptoixer/CryptoX/assets/149633709/d13f5141-0741-4d6c-95de-8ba949e1d605)
 
 ---
 
