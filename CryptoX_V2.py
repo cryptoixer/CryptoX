@@ -57,9 +57,9 @@ def getHeader(richFile, loads, found):
 {RED}╔═╗╦═╗╔═╗╔═╗╦═╗╔═╗╔╦╗╔╦╗╔═╗╦═╗{RESET}  {WHITE}████████████████████████████████████████████████████████████{RESET}
 {RED}╠═╝╠╦╝║ ║║ ╦╠╦╝╠═╣║║║║║║║╣ ╠╦╝{RESET}  {WHITE}█─▄▄▄─█▄─▄▄▀█▄─█─▄█▄─▄▄─█─▄─▄─█─▄▄─█▄─▄▄▀█▄─▄▄─█▄─█─▄█░▄▄░▄█{RESET}
 {RED}╩  ╩╚═╚═╝╚═╝╩╚═╩ ╩╩ ╩╩ ╩╚═╝╩╚═{RESET}  {WHITE}█─███▀██─▄─▄██▄─▄███─▄▄▄███─███─██─██─██─██─▄█▀██▄▀▄███▀▄█▀█{RESET} 
-                                            {WHITE}▀▄▄▄▄▄▀▄▄▀▄▄▀▀▄▄▄▀▀▄▄▄▀▀▀▀▄▄▄▀▀▄▄▄▄▀▄▄▄▄▀▀▄▄▄▄▄▀▀▀▄▀▀▀▄▄▄▄▄▀{RESET}  
-{RED}➜{RESET} {WHITE}Pyromid {RESET}{CYAN}v2 {RESET}Ⓟ{GREEN} Powered By Crypto_devz - Exclusive Crypto_ixer{RESET}
-{RED}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬{RESET}
+{RED}           -     -     -     {RESET}   {WHITE}▀▄▄▄▄▄▀▄▄▀▄▄▀▀▄▄▄▀▀▄▄▄▀▀▀▀▄▄▄▀▀▄▄▄▄▀▄▄▄▄▀▀▄▄▄▄▄▀▀▀▄▀▀▀▄▄▄▄▄▀{RESET}  
+{RED}➜{RESET} {WHITE}Crypto_Devz {RESET}{CYAN}v2 {RESET}Ⓟ{GREEN} Powered By Crypto_devz - Exclusive Crypto_ixer{RESET}
+                    {RED}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬{RESET}
 {RED}[{RESET}{WHITE}►{RESET}{RED}]{RESET}{GREEN} Import Rich File :{RESET}{CYAN} {richFile}                {RESET}
 {RED}[{RESET}{WHITE}►{RESET}{RED}]{RESET}{GREEN} Method Generated :{RESET}{CYAN} Random Without Repeat.    {RESET}
 {RED}[{RESET}{WHITE}►{RESET}{RED}]{RESET}{GREEN} Address Type     :{RESET}{CYAN} Compressed / Uncompressed.{RESET}
